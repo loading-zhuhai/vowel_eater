@@ -1,0 +1,16 @@
+#outputDiv{
+    border: solid black 1px;
+    padding: 12px;
+}
+
+#labelInputContainer{
+padding-bottom: 12px;
+}
+
+body {
+    padding: 12px;
+}
+
+#vowelEaterButton{
+    margin-bottom: 12px;
+}
